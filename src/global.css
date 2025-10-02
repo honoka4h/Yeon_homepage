@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'neodgm';
+  src: url('@/assets/fonts/neodgm.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
